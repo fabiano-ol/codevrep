@@ -1,0 +1,4 @@
+Elemento no vetor
+Dada uma matriz B[1..N,1..N]: Inteiro na qual cada linha e cada coluna está ordenada, 
+isto é, se i < j então B[k,i] ≤ B[k,j] e B[i,k] ≤ B[j,k] para todo 1 ≤ k ≤ N, determinar 
+se um elemento x dado como entrada pertence à matriz em tempo O(N^2).
