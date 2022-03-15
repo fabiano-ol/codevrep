@@ -1,3 +1,4 @@
 Simular Pilha empregando Filas
+3
 Reescreva as operações de Pilha utilizando duas Filas como estrutura de dados auxiliar para 
 guardar os elementos. Manipule as filas por suas interfaces padrão.
